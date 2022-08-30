@@ -1,0 +1,19 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  },
+  "dependencies": {
+    "palind": "^1.0.1"
+  }
+}
